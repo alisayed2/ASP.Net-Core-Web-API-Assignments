@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "9ZtbuhKy6IUW9oQ5AkugAgHLPuBpi6Uog2HjlQyoLhc=",
+  "Source": "Assignment 2",
+  "BasePath": "_content/Assignment 2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Assignment 2\\wwwroot",
+      "Source": "Assignment 2",
+      "ContentRoot": "D:\\ASP.Net Core Web API Assignments\\Day 2 - (Custom Binding - DTO - HTML Consumer - Enable CORS )\\Assignment 2\\wwwroot\\",
+      "BasePath": "_content/Assignment 2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ASP.Net Core Web API Assignments\\Day 2 - (Custom Binding - DTO - HTML Consumer - Enable CORS )\\Assignment 2\\wwwroot\\HTMLConsumer.html",
+      "SourceId": "Assignment 2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP.Net Core Web API Assignments\\Day 2 - (Custom Binding - DTO - HTML Consumer - Enable CORS )\\Assignment 2\\wwwroot\\",
+      "BasePath": "_content/Assignment 2",
+      "RelativePath": "HTMLConsumer.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\HTMLConsumer.html"
+    }
+  ]
+}

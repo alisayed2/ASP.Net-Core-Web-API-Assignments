@@ -1,0 +1,152 @@
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\appsettings.Development.json
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\appsettings.json
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\CRUD Operations Assignment.exe
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\CRUD Operations Assignment.deps.json
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\CRUD Operations Assignment.runtimeconfig.json
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\CRUD Operations Assignment.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\CRUD Operations Assignment.pdb
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\Azure.Core.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\Azure.Identity.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\Humanizer.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\System.CodeDom.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\System.Memory.Data.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\obj\Debug\net7.0\CRUD Operations Assignment.csproj.AssemblyReference.cache
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\obj\Debug\net7.0\CRUD Operations Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\obj\Debug\net7.0\CRUD Operations Assignment.AssemblyInfoInputs.cache
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\obj\Debug\net7.0\CRUD Operations Assignment.AssemblyInfo.cs
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\obj\Debug\net7.0\CRUD Operations Assignment.csproj.CoreCompileInputs.cache
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\obj\Debug\net7.0\CRUD Operations Assignment.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\obj\Debug\net7.0\CRUD Operations Assignment.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\obj\Debug\net7.0\staticwebassets\msbuild.CRUD Operations Assignment.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\obj\Debug\net7.0\staticwebassets\msbuild.build.CRUD Operations Assignment.props
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CRUD Operations Assignment.props
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CRUD Operations Assignment.props
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\obj\Debug\net7.0\staticwebassets.build.json
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\obj\Debug\net7.0\staticwebassets.development.json
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\obj\Debug\net7.0\scopedcss\bundle\CRUD Operations Assignment.styles.css
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\obj\Debug\net7.0\CRUD Operations Assignment.csproj.CopyComplete
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\obj\Debug\net7.0\CRUD Operations Assignment.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\obj\Debug\net7.0\refint\CRUD Operations Assignment.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\obj\Debug\net7.0\CRUD Operations Assignment.pdb
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\obj\Debug\net7.0\CRUD Operations Assignment.genruntimeconfig.cache
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\CRUD Operations Assignment\obj\Debug\net7.0\ref\CRUD Operations Assignment.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\appsettings.Development.json
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\appsettings.json
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\CRUD Operations Assignment.exe
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\CRUD Operations Assignment.deps.json
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\CRUD Operations Assignment.runtimeconfig.json
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\CRUD Operations Assignment.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\CRUD Operations Assignment.pdb
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\Azure.Core.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\Azure.Identity.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\Humanizer.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\System.CodeDom.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\System.Memory.Data.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\obj\Debug\net7.0\CRUD Operations Assignment.csproj.AssemblyReference.cache
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\obj\Debug\net7.0\CRUD Operations Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\obj\Debug\net7.0\CRUD Operations Assignment.AssemblyInfoInputs.cache
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\obj\Debug\net7.0\CRUD Operations Assignment.AssemblyInfo.cs
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\obj\Debug\net7.0\CRUD Operations Assignment.csproj.CoreCompileInputs.cache
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\obj\Debug\net7.0\CRUD Operations Assignment.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\obj\Debug\net7.0\CRUD Operations Assignment.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\obj\Debug\net7.0\staticwebassets\msbuild.CRUD Operations Assignment.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\obj\Debug\net7.0\staticwebassets\msbuild.build.CRUD Operations Assignment.props
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CRUD Operations Assignment.props
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CRUD Operations Assignment.props
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\obj\Debug\net7.0\staticwebassets.build.json
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\obj\Debug\net7.0\staticwebassets.development.json
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\obj\Debug\net7.0\scopedcss\bundle\CRUD Operations Assignment.styles.css
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\obj\Debug\net7.0\CRUD Operations Assignment.csproj.CopyComplete
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\obj\Debug\net7.0\CRUD Operations Assignment.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\obj\Debug\net7.0\refint\CRUD Operations Assignment.dll
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\obj\Debug\net7.0\CRUD Operations Assignment.pdb
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\obj\Debug\net7.0\CRUD Operations Assignment.genruntimeconfig.cache
+D:\ASP.Net Core Web API Assignments\Day 1 - CRUD Operations\CRUD Operations Assignment\obj\Debug\net7.0\ref\CRUD Operations Assignment.dll

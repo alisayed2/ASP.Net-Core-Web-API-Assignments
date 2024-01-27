@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+
+    <div id="div1">
+         <h2>Employees Names
+        <ul id="emps"></ul>
+         </h2>
+    </div>
+
+    <button>Get External Content</button>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("button").click(function () {
+                $.ajax({
+                    url: "api/employee", // Same project same domain
+                    // By Default Request Verb On AJAX Call is GET
+                    // type:"Post", To Call Post End Point
+                    success: function (result) {
+                        console.log(result);
+                        document.getElementById("emps").innerHTML = "";
+                        for (let employee of result) {
+                            document.getElementById("emps").innerHTML += "<li>" + employee.name + "</li>";
+                        }
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
